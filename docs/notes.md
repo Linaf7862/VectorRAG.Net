@@ -36,3 +36,4 @@ Notes and usage details for VectorRAG.Net.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
