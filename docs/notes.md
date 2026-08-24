@@ -46,3 +46,4 @@ Notes and usage details for VectorRAG.Net.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
